@@ -1,0 +1,3 @@
+create view viewbillj as
+select B.Bill_no,P.patient_id,P.patient_name,P.doctor_id ,B.Amount,B.date
+from (billinformation B join patientinformation P on B.patient_no = P.patient_id);
