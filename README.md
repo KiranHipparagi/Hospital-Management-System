@@ -1,7 +1,6 @@
 # Hospital-Management-System
 
 ## INTRODUCTION
-
 In most developing countries, provision of basic preventive, promotive and curative services is a major concern of the Government.With growing population and advancement in the medical technology and increasing expectation of the people especially for quality curative care, it has now become imperative to provide quality health care services through the established institutions.
 
 However, these services have not been successful in gaining the faith and confidence of the people because of lack of specialists, facilities and accountability, along with the paucity of resources and non-involvement of the community. Hospital Management System is a simple yet effective management structure. This system acts for the hospitals to manage the affairs of the hospital.HMS is free to prescribe, generate and use the functioning and maintaining the quality of services.
